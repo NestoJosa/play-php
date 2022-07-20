@@ -3,8 +3,11 @@
     /*
     
         Note:
-        - file_exists does NOT just check files
-        - It can also be used to check for directories
+
+        - This function does NOT just check files, 
+        it can also be used to check for a directories exists
+
+        - Results are cached!
 
     */
 
